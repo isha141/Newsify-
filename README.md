@@ -1,3 +1,9 @@
+![image](https://github.com/isha141/Newsify-/assets/87226077/6b8dfbe2-f696-432c-bdf3-dd5a348c75e9) 
+
+
+![image](https://github.com/isha141/Newsify-/assets/87226077/b4d04a74-e607-4b8a-861d-065d9ed50723)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
